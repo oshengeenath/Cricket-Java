@@ -237,8 +237,8 @@ public class Main {
     static void setTheTeams(){
         try {
             //create new file instances for players and teams
-            File playerFile = new File("files/players.txt");
-            File teamFile = new File("files/teams.txt");
+            File playerFile = new File("C:\\Users\\oshen geenath\\Desktop\\20211010_2118810_Sourcecode\\20211010_2118810_Sourcecode\\files\\players.txt");
+            File teamFile = new File("C:\\Users\\oshen geenath\\Desktop\\20211010_2118810_Sourcecode\\20211010_2118810_Sourcecode\\files\\teams.txt");
 
             // read the files
             FileReader playerFileReader = new FileReader(playerFile);
